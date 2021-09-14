@@ -1,5 +1,0 @@
-string imageURL = 'https://upload.wikimedia.org/wikipedia/commons/6/6b/PP_box.jpg';
-string modelID = '<your model id>';
-einsteinplay.Einstein_PredictionService service = new einsteinplay.Einstein_PredictionService(einsteinplay.Einstein_PredictionService.Types.IMAGE);
-einsteinplay.Einstein_PredictionResult predResult = service.predictImageUrl(modelID, imageURL, 2, null);
-system.debug('Probabilities: ' + predResult.probabilities);
