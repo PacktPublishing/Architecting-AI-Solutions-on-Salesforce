@@ -52,9 +52,9 @@ Click on the following link to see the Code in Action:
 [https://bit.ly/3DerU2h](https://www.youtube.com/playlist?list=PLeLcvrwLe187NtAq-BaqxMHrWVFbyXiQr)
 
 ### Related products
-* Salesforce Data Architecture and Management [[Packt]](https://www.packtpub.com/product/salesforce-data-architecture-and-management/9781801073240?utm_source=github&utm_medium=repository&utm_campaign=9781801073240) [[Amazon]](https://www.amazon.com/dp/1800568754)
+* Salesforce Data Architecture and Management [[Packt]](https://www.packtpub.com/product/salesforce-data-architecture-and-management/9781801073240) [[Amazon]](https://www.amazon.com/Salesforce-Data-Architecture-Management-effectively/dp/1801073244)
 
-* Becoming a Salesforce Certified Technical Architect [[Packt]](https://www.packtpub.com/product/becoming-a-salesforce-certified-technical-architect/9781800568754?utm_source=github&utm_medium=repository&utm_campaign=9781800568754) [[Amazon]](https://www.amazon.com/dp/1800568754)
+* Salesforce B2C Solution Architect's Handbook [[Packt]](https://www.packtpub.com/product/salesforce-b2c-solution-architect-s-handbook/9781801817035) [[Amazon]](https://www.amazon.com/Salesforce-Solution-Architects-business-consumer/dp/1801817030)
 
 ## Get to Know the Author
 **Lars Malmqvist**
