@@ -59,3 +59,7 @@ Click on the following link to see the Code in Action:
 ## Get to Know the Author
 **Lars Malmqvist**
 has spent the past 12 years working as an architect and CTO within the Salesforce ecosystem. For the past 5 years, he has been particularly focusing on advanced AI solutions. He has worked on over 40 Salesforce implementations, ranging from simple out-of-the-box scenarios to advanced, bespoke, multi-cloud solutions for large global brands. He is a 23x certified Salesforce CTA with degrees in computer science, mathematics, and technology management and an MBA from the University of Cambridge. Currently, he works as a senior manager at Accenture and is in the final stages of completing a PhD with a focus on deep learning.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801076012">https://packt.link/free-ebook/9781801076012 </a> </p>
